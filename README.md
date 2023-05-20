@@ -1,5 +1,5 @@
 
-# Sandeep Portfolia
+# Sandeep Portfolio
 # [Project 1:Pendrive Price Recommendation System Model](https://github.com/SANDY837/Pendrive_Price_Prediction/tree/main)
 
 This is the project I did when i wanted to purchase a pendrive ,Then I build a recommendation system for a pendrive dataset.
